@@ -13,3 +13,4 @@ for i in range(count):
     plt.title(Titles[i])
     plt.imshow(images[i])
 plt.show()
+print("hckjc")
